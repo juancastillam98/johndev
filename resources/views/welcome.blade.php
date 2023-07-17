@@ -106,7 +106,7 @@
             <h2 class="heading">About <span>Me</span></h2>
             <h3>Fullstack Developer</h3>
             <p>I am Juan Castilla Mariscal, a passionate web developer with a persistent attitude and a strong commitment to achieving my goals. I strive constantly to overcome challenges and excel in my career. My current objective is to become a full-stack web development professional specializing in Laravel and React.js. </p>
-            <p>With previous experience as a Freelance web developer in WordPress, I have created highly functional and attractive websites. However, my focus goes beyond just developing websites. I also have a passion for analyzing websites for improvements, adding functionality, and providing a critical business perspective. </p> 
+            <p>With previous experience as a Freelance web developer in WordPress, I have created highly functional and attractive websites. However, my focus goes beyond just developing websites. I also have a passion for analyzing websites for improvements, adding functionality, and providing a critical business perspective. </p>
            <p> My goal is to offer the best possible solution to my clients, actively involving myself in their business and offering ideas that drive their growth and success. I maintain a spirit of continuous learning to stay updated with the latest technologies and trends in the web development field, enabling me to deliver innovative and effective solutions. </p>
             <p>I am excited to explore new job opportunities that allow me to further develop my skills and contribute to the success of challenging projects.</p>
             <a href="#" class="btn">Read More</a>
@@ -150,7 +150,7 @@
                 <img src="{{asset('storage/images/proyecto_echo.avif')}}" alt="Búsqueda de empleo ECHO">
                 <div class="portfolio-layer">
                     <h4>Job finder ECHO</h4>
-                    <p>The job search platform that will revolutionize your tech career! Find top opportunities 
+                    <p>The job search platform that will revolutionize your tech career! Find top opportunities
                         and prestigious companies in the industry. Join us and take your career to new heights!</p>
                     <a href="https://proyectoecho.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
@@ -167,14 +167,12 @@
                     </a>
                 </div>
             </div>
-{{--       <div class="portfolio-box">
-                <img src="{{asset('storage/images/proyecto_echo.avif')}}" alt="Búsqueda de empleo ECHO">
+            <div class="portfolio-box">
+                <img src="{{asset('storage/images/proyecto_gestor_citas.avif')}}" alt="Gestor de citas pacientes veterinaria">
                 <div class="portfolio-layer">
-                    <h4>Web desing ECHO</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui atque sunt praesentium vel amet
-                        saepe, earum est cupiditate, quod maxime excepturi enim magni itaque ad autem, expedita ducimus
-                        vero molestiae?</p>
-                    <a href="#">
+                    <h4>Appointment manager project</h4>
+                    <p>Appointment manager project, whose main purpose is the full handling of patient appointments for a veterinary clinic. These data are stored in e LocalStorage</p>
+                    <a href="https://gestorcitas.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -189,6 +187,7 @@
                     </a>
                 </div>
             </div>
+            {{--
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto_echo.avif')}}" alt="Búsqueda de empleo ECHO">
                 <div class="portfolio-layer">
