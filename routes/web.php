@@ -21,7 +21,7 @@ Route::get('/', function () {
 
 /*Download cv*/
 Route::get('/download-cv', function () {
-    $file = storage_path('app/public/cv/CV_Juan_Castilla_v2_EN.pdf');
+    $file = storage_path('app/public/cv/CV Juan Castilla ES Actualizado.pdf');
 
     if (Storage::exists('public/cv/CV_Juan_Castilla_v2_EN.pdf')) {
         return response()->download($file, 'CV_Juan_Castilla_v2_EN.pdf', ['Content-Type' => 'application/pdf']);

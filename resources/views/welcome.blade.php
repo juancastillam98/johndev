@@ -146,6 +146,7 @@
     <section class="portfolio" id="portfolio">
         <h2 class="heading">Latest <span>Project</span></h2>
         <div class="portfolio-container">
+            <!--protectoECHO-->
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto_echo.avif')}}" alt="Búsqueda de empleo ECHO">
                 <div class="portfolio-layer">
@@ -167,6 +168,7 @@
                     </a>
                 </div>
             </div>
+            <!--gestor citas veterinaria react-->
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto_gestor_citas.avif')}}" alt="Gestor de citas pacientes veterinaria">
                 <div class="portfolio-layer">
@@ -187,7 +189,7 @@
                     </a>
                 </div>
             </div>
-            {{--
+            <!--control de gastos react react-->
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto_echo.avif')}}" alt="Búsqueda de empleo ECHO">
                 <div class="portfolio-layer">
@@ -209,7 +211,7 @@
                         </svg>
                     </a>
                 </div>
-            </div> --}}
+            </div>
         </div>
     </section>
     <!--contact section design-->
