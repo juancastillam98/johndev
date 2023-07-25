@@ -191,13 +191,11 @@
             </div>
             <!--control de gastos react react-->
             <div class="portfolio-box">
-                <img src="{{asset('storage/images/proyecto_echo.avif')}}" alt="Búsqueda de empleo ECHO">
+                <img src="{{asset('storage/images/proyecto_control_gastos.avif')}}" alt="Búsqueda de empleo ECHO">
                 <div class="portfolio-layer">
-                    <h4>Web desing ECHO</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui atque sunt praesentium vel amet
-                        saepe, earum est cupiditate, quod maxime excepturi enim magni itaque ad autem, expedita ducimus
-                        vero molestiae?</p>
-                    <a href="#">
+                    <h4>Cost Manager</h4>
+                    <p>Using this cost manger, you'll have under control every spent you make. It is organized into 6 different categories, you can filter expenses for each of them as well as see the total spent and available</p>
+                    <a href="https://controlgastos.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>

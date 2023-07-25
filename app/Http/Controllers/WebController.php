@@ -46,9 +46,9 @@ class WebController extends Controller
             //array_push($photos, $extension);
         }
         return redirect()->route('welcome');
-        /*         return view("pruebas", [
+        /*        return view("pruebas", [
             "images" => $webpPath
-        ]); */
+        ]);*/
     }
     /*
     $images = Storage::allFiles("public/images/");
