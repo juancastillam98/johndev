@@ -191,7 +191,7 @@
             </div>
             <!--control de gastos react react-->
             <div class="portfolio-box">
-                <img src="{{asset('storage/images/proyecto_control_gastos.avif')}}" alt="Búsqueda de empleo ECHO">
+                <img src="{{asset('storage/images/proyecto_control_gastos.avif')}}" alt="Control de gastos">
                 <div class="portfolio-layer">
                     <h4>Cost Manager</h4>
                     <p>Using this cost manger, you'll have under control every spent you make. It is organized into 6 different categories, you can filter expenses for each of them as well as see the total spent and available</p>
@@ -212,11 +212,11 @@
             </div>
             <!--control de criptos react-->
             <div class="portfolio-box">
-                <img src="{{asset('storage/images/proyecto_criptos_react.avif')}}" alt="Búsqueda de empleo ECHO">
+                <img src="{{asset('storage/images/proyecto_criptos_react.avif')}}" alt="Consultar datos criptomonedas">
                 <div class="portfolio-layer">
                     <h4>Cost Manager</h4>
-                    <p>Using this cost manger, you'll have under control every spent you make. It is organized into 6 different categories, you can filter expenses for each of them as well as see the total spent and available</p>
-                    <a href="https://controlgastos.johndev.dev/">
+                    <p>This is a platform where you can check the current price of the most popular cripto nowadays</p>
+                    <a href="https://criptosreact.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
