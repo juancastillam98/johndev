@@ -236,7 +236,7 @@
                 <img src="{{asset('storage/images/proyecto-crm-clientes.jpeg')}}" alt="CRM de clientes en React">
                 <div class="portfolio-layer">
                     <h4>Cost Manager</h4>
-                    <p>This is a platform where you can check the current price of the most popular cripto nowadays</p>
+                    <p>In this platform, you'll be able to manage the clientes of your proyect</p>
                     <a href="https://crmclientes.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
