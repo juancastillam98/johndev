@@ -252,6 +252,27 @@
                     </a>
                 </div>
             </div>
+            <!--crm guitarla-->
+            <div class="portfolio-box">
+                <img src="{{asset('storage/images/proyecto_guitarla_strapi.avif')}}" alt="Tienda de Guitarras">
+                <div class="portfolio-layer">
+                    <h4>Guitar Shop</h4>
+                    <p>Guitar ecommerce</p>
+                    <a href="https://guitarlaremix.johndev.dev/">
+                        <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M7.7574 10.5858L4.92897 13.4142C3.7574 14.5858 3.7574 16.4853 4.92897 17.6569L6.34319 19.0711C7.51476 20.2427 9.41425 20.2427 10.5858 19.0711L13.4143 16.2427M9.87873 14.1214L14.1214 9.87873M10.5858 7.7574L13.4142 4.92897C14.5858 3.7574 16.4853 3.7574 17.6569 4.92897L19.0711 6.34319C20.2427 7.51476 20.2427 9.41425 19.0711 10.5858L16.2427 13.4143"
+                                    stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!--contact section design-->
