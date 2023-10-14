@@ -258,7 +258,7 @@
                 <div class="portfolio-layer">
                     <h4>Guitar Shop</h4>
                     <p>Guitar ecommerce</p>
-                    <a href="https://guitarlaremix.johndev.dev/">
+                    <a href="https://certainly-carl-prospective-alexander.trycloudflare.com">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
