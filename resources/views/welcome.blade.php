@@ -279,7 +279,7 @@
                 <div class="portfolio-layer">
                     <h4>Guitar Shop NextJS</h4>
                     <p>Guitar ecommerce creada en NextJS</p>
-                    <a href="https://github.com/juancastillam98/guitarla-nextjs">
+                    <a href="https://guitarla-nextjs-nine.vercel.app/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
