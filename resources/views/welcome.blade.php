@@ -194,7 +194,7 @@
                 <img src="{{asset('storage/images/proyecto_control_gastos.avif')}}" alt="Control de gastos">
                 <div class="portfolio-layer">
                     <h4>Cost Manager</h4>
-                    <p>Using this cost manger, you'll have under control every spent you make. It is organized into 6 different categories, you can filter expenses for each of them as well as see the total spent and available</p>
+                    <p>Manage your cost</p>
                     <a href="https://controlgastos.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
@@ -215,7 +215,7 @@
                 <img src="{{asset('storage/images/proyecto_criptos_react.avif')}}" alt="Consultar datos criptomonedas">
                 <div class="portfolio-layer">
                     <h4>Cost Manager</h4>
-                    <p>This is a platform where you can check the current price of the most popular cripto nowadays</p>
+                    <p>Cripto currency checker</p>
                     <a href="https://criptosreact.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
@@ -236,7 +236,7 @@
                 <img src="{{asset('storage/images/proyecto-crm-clientes.jpeg')}}" alt="CRM de clientes en React">
                 <div class="portfolio-layer">
                     <h4>Cost Manager</h4>
-                    <p>In this platform, you'll be able to manage the clientes of your proyect</p>
+                    <p>Client Manager</p>
                     <a href="https://crmclientes.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
@@ -278,7 +278,7 @@
                 <img src="{{asset('storage/images/proyecto_guitarla_strapi.avif')}}" alt="Tienda de Guitarras">
                 <div class="portfolio-layer">
                     <h4>Guitar Shop NextJS</h4>
-                    <p>Guitar ecommerce creada en NextJS</p>
+                    <p>eCommerce created in Next JS</p>
                     <a href="https://guitarla-nextjs-nine.vercel.app/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
@@ -298,8 +298,8 @@
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto-buscador-de-clima.avif')}}" alt="Tienda de Guitarras">
                 <div class="portfolio-layer">
-                    <h4>Buscador de clima</h4>
-                    <p>Obtiene información del clima a partir de una ciudad y país seleccionado</p>
+                    <h4>Weather finder</h4>
+                    <p>REST API connections in React</p>
                     <a href="https://clima-api.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
@@ -319,9 +319,72 @@
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto_quisco_app.avif')}}" alt="Quiosco">
                 <div class="portfolio-layer">
-                    <h4>Quiosco</h4>
-                    <p>Gestión de completa de un quiosco, para gestionar tus pedidos, productos</p>
+                    <h4>Kiosk</h4>
+                    <p>Online Kiosk with Next js, Context API, TailwindCss, Socket io</p>
                     <a href="https://quioscoapp-production-75ed.up.railway.app">
+                        <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M7.7574 10.5858L4.92897 13.4142C3.7574 14.5858 3.7574 16.4853 4.92897 17.6569L6.34319 19.0711C7.51476 20.2427 9.41425 20.2427 10.5858 19.0711L13.4143 16.2427M9.87873 14.1214L14.1214 9.87873M10.5858 7.7574L13.4142 4.92897C14.5858 3.7574 16.4853 3.7574 17.6569 4.92897L19.0711 6.34319C20.2427 7.51476 20.2427 9.41425 19.0711 10.5858L16.2427 13.4143"
+                                    stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <!--Gestor de proyectos Stack MERN-->
+            <div class="portfolio-box">
+                <img src="{{asset('storage/images/proyecto-uptask-mern.avif')}}" alt="Quiosco">
+                <div class="portfolio-layer">
+                    <h4>Proyect Manager</h4>
+                    <p>Proyect Manager with MERN, Socket IO, TailwindCss</p>
+                    <a href="https://uptask-mern-frontend-xi.vercel.app">
+                        <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M7.7574 10.5858L4.92897 13.4142C3.7574 14.5858 3.7574 16.4853 4.92897 17.6569L6.34319 19.0711C7.51476 20.2427 9.41425 20.2427 10.5858 19.0711L13.4143 16.2427M9.87873 14.1214L14.1214 9.87873M10.5858 7.7574L13.4142 4.92897C14.5858 3.7574 16.4853 3.7574 17.6569 4.92897L19.0711 6.34319C20.2427 7.51476 20.2427 9.41425 19.0711 10.5858L16.2427 13.4143"
+                                    stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <!--Crud con Redux-->
+            <div class="portfolio-box">
+                <img src="{{asset('storage/images/proyecto-crud-redux.avif')}}" alt="Quiosco">
+                <div class="portfolio-layer">
+                    <h4>CRUD con Redux</h4>
+                    <p>Crud in React Redux, Tailwindcss</p>
+                    <a href="https://crud-redux.johndev.dev">
+                        <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
+                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M7.7574 10.5858L4.92897 13.4142C3.7574 14.5858 3.7574 16.4853 4.92897 17.6569L6.34319 19.0711C7.51476 20.2427 9.41425 20.2427 10.5858 19.0711L13.4143 16.2427M9.87873 14.1214L14.1214 9.87873M10.5858 7.7574L13.4142 4.92897C14.5858 3.7574 16.4853 3.7574 17.6569 4.92897L19.0711 6.34319C20.2427 7.51476 20.2427 9.41425 19.0711 10.5858L16.2427 13.4143"
+                                    stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <!--Product Hunt con Firebase-->
+            <div class="portfolio-box">
+                <img src="{{asset('storage/images/proyecto-crud-redux.avif')}}" alt="Quiosco">
+                <div class="portfolio-layer">
+                    <h4>Product Hunt with Firebase</h4>
+                    <p>Product price review with Firebase Tailwindcss</p>
+                    <a href="https://proyecto-product-hunt-firebase-bn0uue3ii.vercel.app/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                              xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
