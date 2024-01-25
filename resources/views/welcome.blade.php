@@ -173,7 +173,7 @@
                 <img src="{{asset('storage/images/proyecto_gestor_citas.avif')}}" alt="Gestor de citas pacientes veterinaria">
                 <div class="portfolio-layer">
                     <h4>Appointment manager project</h4>
-                    <p>Appointment manager project, whose main purpose is the full handling of patient appointments for a veterinary clinic. These data are stored in e LocalStorage</p>
+                    <p>Handling of patient appointments for a veterinary clinic. Data stored in LocalStorage</p>
                     <a href="https://gestorcitas.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
                             xmlns="http://www.w3.org/2000/svg" stroke="#0ef">
@@ -214,7 +214,7 @@
             <div class="portfolio-box">
                 <img src="{{asset('storage/images/proyecto_criptos_react.avif')}}" alt="Consultar datos criptomonedas">
                 <div class="portfolio-layer">
-                    <h4>Cost Manager</h4>
+                    <h4>Cripto control</h4>
                     <p>Cripto currency checker</p>
                     <a href="https://criptosreact.johndev.dev/">
                         <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none"
